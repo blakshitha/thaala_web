@@ -1,6 +1,6 @@
 {
-  "commit": "f8e0b4eadbe8ca81bf99b439416f4c1935d74f3a",
-  "generated": "2025-09-16T12:12:39.843Z",
+  "commit": "9a5e34f9f083a49764aee20fa39737d6428c2d41",
+  "generated": "2025-09-16T12:15:14.474Z",
   "metadata": [
     {
       "__outstatic": {
@@ -170,6 +170,22 @@
       "slug": "new-page",
       "status": "published",
       "title": "New Page"
+    },
+    {
+      "__outstatic": {
+        "commit": "9a5e34f9f083a49764aee20fa39737d6428c2d41",
+        "hash": "4225181829",
+        "path": "examples/basic-blog/outstatic/content/projects/new-project.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/8395794?v=4"
+      },
+      "collection": "projects",
+      "publishedAt": "2025-09-16T13:15:06.427Z",
+      "slug": "new-project",
+      "status": "draft",
+      "title": "New Project"
     }
   ]
 }
