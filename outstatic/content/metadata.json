@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2025-09-16T12:06:35.381Z",
+  "commit": "42513ef792e4c9e36ee3666569b3c07e59886672",
+  "generated": "2025-09-16T12:10:32.024Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "468840120",
+        "commit": "42513ef792e4c9e36ee3666569b3c07e59886672",
+        "hash": "2087822857",
         "path": "examples/basic-blog/outstatic/content/posts/hello-world.mdx"
       },
       "author": {
@@ -150,7 +150,7 @@
       "collection": "posts",
       "publishedAt": "2025-09-16T13:06:17.499Z",
       "slug": "hello-world",
-      "status": "draft",
+      "status": "published",
       "tags": [
       ],
       "title": "Hello World"
