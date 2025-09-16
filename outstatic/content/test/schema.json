@@ -1,6 +1,12 @@
 {
-  "title": "Test",
-  "slug": "test",
+  "title": "test",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "abc": {
+      "description": "abc",
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "abc"
+    }
+  }
 }
