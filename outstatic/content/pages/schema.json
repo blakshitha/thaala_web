@@ -1,0 +1,12 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "isNews": {
+      "description": "Is News",
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Is News"
+    }
+  }
+}
