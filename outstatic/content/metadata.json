@@ -1,6 +1,6 @@
 {
-  "commit": "9a5e34f9f083a49764aee20fa39737d6428c2d41",
-  "generated": "2025-09-16T12:15:14.474Z",
+  "commit": "efed5cfd22b51b5e8fbe98a01871627eca0dd5d6",
+  "generated": "2025-09-16T12:15:16.417Z",
   "metadata": [
     {
       "__outstatic": {
@@ -173,8 +173,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9a5e34f9f083a49764aee20fa39737d6428c2d41",
-        "hash": "4225181829",
+        "commit": "efed5cfd22b51b5e8fbe98a01871627eca0dd5d6",
+        "hash": "159324380",
         "path": "examples/basic-blog/outstatic/content/projects/new-project.mdx"
       },
       "author": {
@@ -184,7 +184,7 @@
       "collection": "projects",
       "publishedAt": "2025-09-16T13:15:06.427Z",
       "slug": "new-project",
-      "status": "draft",
+      "status": "published",
       "title": "New Project"
     }
   ]
